@@ -1,5 +1,5 @@
 # Лабораторная №1 по ТА. Вариант 9
-# Interface
+## Interface
 1) Working from console:
 ```sh
 python Map1.py
@@ -12,3 +12,5 @@ python Map1.py <filename>
 ```sh
 python Map1.py <filename> <log_filename>
 ```
+## Map1 Automata Schema
+![N|Solid](./TA_lab_1.png)
